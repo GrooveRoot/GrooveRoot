@@ -13,7 +13,7 @@ Right now I'm spending most of my time on practical labs around:
 - Active Directory and Windows Server  
 - Linux basics and system hardening  
 - Networking and troubleshooting
-- TryHackMe labs
+- Offensive Security & CTFs (TryHackMe, HTB)
 - Cybersecurity fundamentals  
 
 ---
@@ -21,6 +21,7 @@ Right now I'm spending most of my time on practical labs around:
 ## 🧪 Projects
 
 ### 🔹 Active Directory Home Lab
+
 I built a small Active Directory environment from scratch to practice real system administration tasks:
 
 - Windows Server 2022 domain controller  
@@ -29,6 +30,17 @@ I built a small Active Directory environment from scratch to practice real syste
 - Group Policy (GPO) and file sharing (SMB/NTFS permissions)  
 
 📁 https://github.com/Groove-Ops/active-directory-home-lab  
+
+### 🔹 Security-Labs (CTFs & Offensive Security)
+
+A dedicated repository for documenting technical walkthroughs and security challenges from platforms like **TryHackMe**. I focus on applying structured auditing methodologies to identify vulnerabilities and achieve privilege escalation.
+
+- **Reconnaissance & Enumeration:** Advanced use of Nmap, Gobuster, and OSINT techniques.
+- **Exploitation:** Attack automation (Bruteforce), payload management, and Reverse Shells.
+- **Privilege Escalation:** Identifying insecure permissions and exploiting system scripts.
+- **Technical Reporting:** Detailed write-ups featuring visual evidence and methodology analysis.
+
+📁 https://github.com/Groove-Ops/Security-Labs
 
 ---
 
