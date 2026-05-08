@@ -1,3 +1,5 @@
+![banner](./banner.png)
+
 # Carlos Macías
 
 Bartender transitioning into cybersecurity. I learn by breaking things in controlled environments and documenting what I find.
