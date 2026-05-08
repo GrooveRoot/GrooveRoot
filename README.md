@@ -1,61 +1,23 @@
-# 👋 Hi, I'm Carlos
+# Carlos Macías
 
-I'm currently learning IT and cybersecurity by building hands-on labs and breaking things (and fixing them again).
+Bartender transitioning into cybersecurity. I learn by breaking things in controlled environments and documenting what I find.
 
-I’m more focused on understanding how systems actually work than just theory.
-
----
-
-## 🧠 What I'm working on
-
-Right now I'm spending most of my time on practical labs around:
-
-- Active Directory and Windows Server  
-- Linux basics and system hardening  
-- Networking and troubleshooting
-- Offensive Security & CTFs (TryHackMe, HTB)
-- Cybersecurity fundamentals  
+Currently working through TryHackMe and building toward **CompTIA Security+**, with HackTheBox next on the list. Long-term target is a SOC Analyst or Jr. Sysadmin role, with a preference for offensive work.
 
 ---
 
-## 🧪 Projects
+## What's in here
 
-### 🔹 Active Directory Home Lab
+**[Security-Labs](https://github.com/Groove-Ops/Security-Labs)** — CTF write-ups from TryHackMe and DockerLabs. Rooted manually, documented with methodology: recon → enumeration → foothold → post-exploitation. Not just what worked, but why the vulnerability existed.
 
-I built a small Active Directory environment from scratch to practice real system administration tasks:
-
-- Windows Server 2022 domain controller  
-- Windows 11 client joined to the domain  
-- Users, groups and OUs  
-- Group Policy (GPO) and file sharing (SMB/NTFS permissions)  
-
-📁 https://github.com/Groove-Ops/active-directory-home-lab  
-
-### 🔹 Security-Labs (CTFs & Offensive Security)
-
-A dedicated repository for documenting technical walkthroughs and security challenges from platforms like **TryHackMe**. I focus on applying structured auditing methodologies to identify vulnerabilities and achieve privilege escalation.
-
-- **Reconnaissance & Enumeration:** Advanced use of Nmap, Gobuster, and OSINT techniques.
-- **Exploitation:** Attack automation (Bruteforce), payload management, and Reverse Shells.
-- **Privilege Escalation:** Identifying insecure permissions and exploiting system scripts.
-- **Technical Reporting:** Detailed write-ups featuring visual evidence and methodology analysis.
-
-📁 https://github.com/Groove-Ops/Security-Labs
+**[Active Directory Home Lab](https://github.com/Groove-Ops/active-directory-home-lab)** — Built a Windows Server 2022 domain from scratch. Domain controller, Win11 client, GPOs, SMB/NTFS permissions. The kind of environment you actually encounter in a real network.
 
 ---
 
-## 🎯 Currently learning
+## Stack
 
-- CompTIA Security+  
-- TryHackMe labs (security and pentesting basics)  
-- Windows and Linux administration  
+Fedora / Distrobox (Kali) / OpenVPN — Nmap, Gobuster, Hydra, John the Ripper, Metasploit, smbclient, SecLists
 
 ---
 
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/carlosmacias29/
-
----
-
-> Learning by building real environments, one lab at a time.
+[LinkedIn](https://www.linkedin.com/in/carlosmacias29/)
